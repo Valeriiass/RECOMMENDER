@@ -9,7 +9,7 @@ import sklearn
 
 
 
-st.title("Movie rating :star:") 
+st.title(":star: Best movie rating for YOU :star:") 
 st.write(""" The popular movies """)
 
 

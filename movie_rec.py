@@ -73,7 +73,7 @@ blonde_top_10_correlation
 
 ## USER BASED 
 
-st.title("SPECIAL PROPOSAL for :yellow[YOU] :star: :star: :star:")
+st.title("SPECIAL PROPOSAL for :gold[YOU] :star: :star: :star:")
 NumUser = st.number_input("Please, write you user-ID", min_value=1, max_value=800, value=1, step=1) 
 
 result_2_2 = result_2[['movieId','title', 'userId', 'rating']]

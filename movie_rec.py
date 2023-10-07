@@ -105,7 +105,8 @@ st.write("This movie as that was needed to spend an UNFORGETTABLE evening:")
 st.title(black_top_10_correlation.iloc[0, 0])
 
 
-
+image = Image.open('Why-is-Popcorn-a-Movie-Food.jpg')
+st.image(image, caption='Have a nice watching')
 
 
 
